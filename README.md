@@ -13,7 +13,7 @@
 
 2. 기술스택
 
-<pre> 개발환경 : 파이참, GiT, GITHUB, ubuntu </pre>
+<pre> 개발환경 : PYCHARM, GiT, GITHUB, UBUNTU </pre>
 
 <pre> 개발언어 : DJANGO, BOOTSTRAP, JAVASCRIPT </pre>
 
