@@ -19,7 +19,5 @@
 
 <pre> 서버 : AWS, Gunicorn, Nginx </pre> 
 
-3. 코드설명
-
 
 
