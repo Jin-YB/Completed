@@ -1,6 +1,6 @@
 # Completed
 ---
-  URL : http://3.37.9.11/
+###URL : http://3.37.9.11/
 
 (도메인은 구매하지 못했습니다..!)
 
@@ -8,16 +8,16 @@
 
 <pre>커뮤니티(홍보와 소통이 가능한)</pre>
 
-<pre><code>크라우드 펀딩(기술적 문제로 보류)</code></pre>
+<pre>크라우드 펀딩(기술적 문제로 보류)</pre>
 
 
 2. 기술스택
 
-<pre><code> 개발환경 : 파이참, GiT, GITHUB, ubuntu </code></pre>
+<pre> 개발환경 : 파이참, GiT, GITHUB, ubuntu </pre>
 
-<pre><code> 개발언어 : DJANGO, BOOTSTRAP, JAVASCRIPT </code></pre>
+<pre> 개발언어 : DJANGO, BOOTSTRAP, JAVASCRIPT </pre>
 
-<pre><code> 서버 : AWS, Gunicorn, Nginx </code></pre> 
+<pre> 서버 : AWS, Gunicorn, Nginx </pre> 
 
 3. 코드설명
 
